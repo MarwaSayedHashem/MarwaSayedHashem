@@ -24,6 +24,10 @@ K-12 students and teachers.
 
 ### 📌 Featured projects
 
+- **[rag-knowledge-api](https://github.com/MarwaSayedHashem/rag-knowledge-api)** — a
+  production-shaped **RAG** service: **FastAPI + Celery + Redis + Postgres/pgvector
+  + Claude**. Async document ingestion and cited, retrieval-grounded answers.
+  Swappable backends behind protocols, fully in-process tests, Docker Compose, CI.
 - **[ai-study-coach](https://github.com/MarwaSayedHashem/ai-study-coach)** — a
   FastAPI backend powered by **Claude** that turns any material into flashcards
   and quizzes, grades free-text answers semantically, and runs a streaming
