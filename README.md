@@ -22,8 +22,13 @@ K-12 students and teachers.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-### 📌 Featured project
+### 📌 Featured projects
 
+- **[ai-study-coach](https://github.com/MarwaSayedHashem/ai-study-coach)** — a
+  FastAPI backend powered by **Claude** that turns any material into flashcards
+  and quizzes, grades free-text answers semantically, and runs a streaming
+  Socratic tutor. Structured outputs, dependency-injected AI layer, mocked tests,
+  Docker, and CI.
 - **[flashcards-api](https://github.com/MarwaSayedHashem/flashcards-api)** — a
   FastAPI spaced-repetition REST API implementing the SM-2 algorithm, with a
   layered architecture, pytest suite, Docker, and CI.
