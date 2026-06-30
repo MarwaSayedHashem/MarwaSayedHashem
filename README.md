@@ -24,6 +24,10 @@ K-12 students and teachers.
 
 ### 📌 Featured projects
 
+- **[neural-text-classifier](https://github.com/MarwaSayedHashem/neural-text-classifier)** — an
+  end-to-end **PyTorch** deep-learning pipeline that trains a neural network to
+  classify text (EmbeddingBag + MLP), with evaluation (accuracy/F1), checkpoints,
+  a train/predict CLI, tests, Docker, and CI.
 - **[rag-knowledge-api](https://github.com/MarwaSayedHashem/rag-knowledge-api)** — a
   production-shaped **RAG** service: **FastAPI + Celery + Redis + Postgres/pgvector
   + Claude**. Async document ingestion and cited, retrieval-grounded answers.
